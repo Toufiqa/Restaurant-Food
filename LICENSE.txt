@@ -21,6 +21,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+##License & copyright
+© Toufiqa Rahman, Daffodil International University
+
+Licensed under [MIT License](LICENSE).
+
 Leaners,
 Don't just copy and submit it as your project. Try to learn from the open sources.
 
